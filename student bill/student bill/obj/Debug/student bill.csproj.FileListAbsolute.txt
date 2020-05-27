@@ -1,0 +1,7 @@
+C:\Users\coyenney\source\repos\student bill\student bill\bin\Debug\student bill.exe.config
+C:\Users\coyenney\source\repos\student bill\student bill\bin\Debug\student bill.exe
+C:\Users\coyenney\source\repos\student bill\student bill\bin\Debug\student bill.pdb
+C:\Users\coyenney\source\repos\student bill\student bill\obj\Debug\student bill.csprojAssemblyReference.cache
+C:\Users\coyenney\source\repos\student bill\student bill\obj\Debug\student bill.exe
+C:\Users\coyenney\source\repos\student bill\student bill\obj\Debug\student bill.pdb
+C:\Users\coyenney\source\repos\student bill\student bill\obj\Debug\student bill.csproj.CoreCompileInputs.cache
