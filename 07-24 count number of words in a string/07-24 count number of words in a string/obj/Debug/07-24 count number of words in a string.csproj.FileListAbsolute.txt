@@ -1,0 +1,7 @@
+C:\Users\coyenney\source\repos\07-24 count number of words in a string\07-24 count number of words in a string\bin\Debug\07-24 count number of words in a string.exe.config
+C:\Users\coyenney\source\repos\07-24 count number of words in a string\07-24 count number of words in a string\bin\Debug\07-24 count number of words in a string.exe
+C:\Users\coyenney\source\repos\07-24 count number of words in a string\07-24 count number of words in a string\bin\Debug\07-24 count number of words in a string.pdb
+C:\Users\coyenney\source\repos\07-24 count number of words in a string\07-24 count number of words in a string\obj\Debug\07-24 count number of words in a string.csprojAssemblyReference.cache
+C:\Users\coyenney\source\repos\07-24 count number of words in a string\07-24 count number of words in a string\obj\Debug\07-24 count number of words in a string.csproj.CoreCompileInputs.cache
+C:\Users\coyenney\source\repos\07-24 count number of words in a string\07-24 count number of words in a string\obj\Debug\07-24 count number of words in a string.exe
+C:\Users\coyenney\source\repos\07-24 count number of words in a string\07-24 count number of words in a string\obj\Debug\07-24 count number of words in a string.pdb
