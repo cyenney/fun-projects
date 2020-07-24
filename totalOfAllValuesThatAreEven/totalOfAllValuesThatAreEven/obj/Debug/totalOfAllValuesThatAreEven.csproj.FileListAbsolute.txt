@@ -1,0 +1,7 @@
+C:\Users\coyenney\source\repos\totalOfAllValuesThatAreEven\totalOfAllValuesThatAreEven\bin\Debug\totalOfAllValuesThatAreEven.exe.config
+C:\Users\coyenney\source\repos\totalOfAllValuesThatAreEven\totalOfAllValuesThatAreEven\bin\Debug\totalOfAllValuesThatAreEven.exe
+C:\Users\coyenney\source\repos\totalOfAllValuesThatAreEven\totalOfAllValuesThatAreEven\bin\Debug\totalOfAllValuesThatAreEven.pdb
+C:\Users\coyenney\source\repos\totalOfAllValuesThatAreEven\totalOfAllValuesThatAreEven\obj\Debug\totalOfAllValuesThatAreEven.csprojAssemblyReference.cache
+C:\Users\coyenney\source\repos\totalOfAllValuesThatAreEven\totalOfAllValuesThatAreEven\obj\Debug\totalOfAllValuesThatAreEven.csproj.CoreCompileInputs.cache
+C:\Users\coyenney\source\repos\totalOfAllValuesThatAreEven\totalOfAllValuesThatAreEven\obj\Debug\totalOfAllValuesThatAreEven.exe
+C:\Users\coyenney\source\repos\totalOfAllValuesThatAreEven\totalOfAllValuesThatAreEven\obj\Debug\totalOfAllValuesThatAreEven.pdb
