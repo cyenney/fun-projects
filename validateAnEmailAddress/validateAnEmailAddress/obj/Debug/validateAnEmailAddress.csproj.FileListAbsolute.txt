@@ -1,0 +1,7 @@
+C:\Users\coyenney\source\repos\validateAnEmailAddress\validateAnEmailAddress\bin\Debug\validateAnEmailAddress.exe.config
+C:\Users\coyenney\source\repos\validateAnEmailAddress\validateAnEmailAddress\bin\Debug\validateAnEmailAddress.exe
+C:\Users\coyenney\source\repos\validateAnEmailAddress\validateAnEmailAddress\bin\Debug\validateAnEmailAddress.pdb
+C:\Users\coyenney\source\repos\validateAnEmailAddress\validateAnEmailAddress\obj\Debug\validateAnEmailAddress.csprojAssemblyReference.cache
+C:\Users\coyenney\source\repos\validateAnEmailAddress\validateAnEmailAddress\obj\Debug\validateAnEmailAddress.csproj.CoreCompileInputs.cache
+C:\Users\coyenney\source\repos\validateAnEmailAddress\validateAnEmailAddress\obj\Debug\validateAnEmailAddress.exe
+C:\Users\coyenney\source\repos\validateAnEmailAddress\validateAnEmailAddress\obj\Debug\validateAnEmailAddress.pdb
