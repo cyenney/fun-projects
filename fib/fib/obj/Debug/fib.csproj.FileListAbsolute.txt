@@ -1,0 +1,7 @@
+C:\Users\coyenney\source\repos\fib\fib\bin\Debug\fib.exe.config
+C:\Users\coyenney\source\repos\fib\fib\bin\Debug\fib.exe
+C:\Users\coyenney\source\repos\fib\fib\bin\Debug\fib.pdb
+C:\Users\coyenney\source\repos\fib\fib\obj\Debug\fib.csprojAssemblyReference.cache
+C:\Users\coyenney\source\repos\fib\fib\obj\Debug\fib.csproj.CoreCompileInputs.cache
+C:\Users\coyenney\source\repos\fib\fib\obj\Debug\fib.exe
+C:\Users\coyenney\source\repos\fib\fib\obj\Debug\fib.pdb
